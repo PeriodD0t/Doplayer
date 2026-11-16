@@ -1,8 +1,19 @@
+<p align="center"><img src="assets/hero.png" alt="Doplayer" width="100%"></p>
+
 # Doplayer
 
 A native, minimalist audio player for macOS with bit-perfect output.
 
 > **Alpha 1.0.** This is the first public alpha. It is signed only ad hoc (no Apple Developer ID) and is not notarised, so macOS will ask you to confirm the first launch — see below. made by Period.
+
+## Screenshots
+
+![Dark and light themes](assets/themes.png)
+*Dark and light themes*
+
+![Songs list](assets/screen-page.png)
+
+![Visualizer with the cover view](assets/screen-visualizer.png)
 
 ## Features
 
